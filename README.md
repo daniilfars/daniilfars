@@ -48,7 +48,7 @@
 <a href="https://github.com/daniilfars/ECommerce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daniilfars&repo=ECommerce&theme=cobalt&hide_border=true" height="130" width="400" ></a>
 </p>
 
-# 💻 Tech Stack:
+# 💻 Мой стек:
 
 ## Backend
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -57,12 +57,7 @@
 ![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![MassTransit](https://img.shields.io/badge/MassTransit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MediatR](https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ## Frontend
 ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -70,8 +65,9 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## Tools
+## Инструменты
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
@@ -83,11 +79,6 @@
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myrzikfarsatov@gmail.com)
 
 </p>
-
-## 💻 Coding Challenges
-
-- [LeetCode](https://leetcode.com/daniilfars/)
-- [Codewars](https://www.codewars.com/users/daniilfars)
 
 <div align="center" margin="100px 0 0 0">
 <hr/>
@@ -109,7 +100,7 @@
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniilfars&layout=compact&hide_border=true&theme=cobalt&bg_color=00000000">
 </p>
 
-## Activity On GitHub
+## Активность на гитхабе
 
 <p align="center">
     <a href="https://github.com/daniilfars">
