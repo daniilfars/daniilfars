@@ -45,7 +45,7 @@
  <img align="right"  src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" > </a>
 
 <p align="center">
-<a href="https://github.com/daniilfars/ECommerce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daniilfars&repo=ECommerce&theme=cobalt&hide_border=true" height="130" width="400" ></a>
+<a href="https://github.com/daniilfars/Mediasphere"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daniilfars&repo=ECommerce&theme=cobalt&hide_border=true" height="130" width="400" ></a>
 </p>
 
 # 💻 Мой стек:
